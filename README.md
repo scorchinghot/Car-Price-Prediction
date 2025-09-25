@@ -39,9 +39,9 @@ It's important to note that while a high R² indicates the model explains a larg
 
 The code for this project is available in the Jupyter notebook in this repository. It includes the steps for data loading, preprocessing, model training, and evaluation.
 
-## Challenge to the Community
+## Leaderboard (if anyone wants to)
 
- Currently, the best R² achieved on this dataset in this repo is around 95% using a Random Forest Regressor, with up to 96% using a combination of several features. We believe there’s potential for improvement! 
+ Currently, the best R² achieved on this dataset in this repo is around 95% using a Random Forest Regressor, with up to 96% using a combination of several features. If you’d like, feel free to try improving the R².
 
 | Rank | Contributor | R² Score | Model Used |
 |------|------------|----------|------------|
